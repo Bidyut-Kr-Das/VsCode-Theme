@@ -3,6 +3,20 @@
   "displayName": "ShadowFrost Theme",
   "description": "Custom made theme for vs code by Bidyut Kr Das",
   "version": "0.0.1",
+  "publisher": "BidyutKrDas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bidyut-Kr-Das/VsCode-Theme"
+  },
+  "keywords": [
+    "bidyut",
+    "shadowfrost",
+    "shadow frost",
+    "frost",
+    "shadow frost theme",
+    "ShadowFrost Theme",
+    "shadowfrost-theme"
+  ],
   "engines": {
     "vscode": "^1.83.0"
   },
