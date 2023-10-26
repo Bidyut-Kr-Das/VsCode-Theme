@@ -4,4 +4,4 @@
 
 ## Author
 
-- [@octokatherine](https://github.com/Bidyut-Kr-Das)
+- [@BidyutKrDas](https://github.com/Bidyut-Kr-Das)
