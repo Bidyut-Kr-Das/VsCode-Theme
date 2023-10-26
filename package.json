@@ -1,0 +1,21 @@
+{
+  "name": "shadowfrost-theme",
+  "displayName": "ShadowFrost Theme",
+  "description": "Custom made theme for vs code by Bidyut Kr Das",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bidyut Kr. Das",
+        "uiTheme": "vs-dark",
+        "path": "./themes/frost-color-theme.json"
+      }
+    ]
+  }
+}
