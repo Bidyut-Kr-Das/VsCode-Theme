@@ -25,5 +25,5 @@ _Change the current terminal directory to VsCode-Theme_
 _Install the extension_
 
 ```bash
-    code --install-extension shadowfrost-theme-0.0.4.vsix
+    code --install-extension shadowfrost-theme-0.1.1.vsix
 ```
