@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bidyut Kr. Das",
+        "label": "ShadowFrost-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/frost-color-theme.json"
       }
