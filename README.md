@@ -10,20 +10,32 @@
 
 ~**Run the following commands**
 
-_Clone the repository_
+1. _Clone the repository_
 
 ```bash
    git clone https://github.com/Bidyut-Kr-Das/VsCode-Theme.git
 ```
 
-_Change the current terminal directory to VsCode-Theme_
+2. _Change the current terminal directory to VsCode-Theme_
 
 ```bash
    cd .\VsCode-Theme
 ```
 
-_Install the extension_
+3. _Install the vsce module to create the extension_
 
 ```bash
-    code --install-extension shadowfrost-theme-0.1.2.vsix
+   npm i -g vsce
+```
+
+4. _Create the extension using vsce_
+
+```bash
+   vsce package
+```
+
+_Install the extension_(replace the `<version>` with version of your .vsix file)
+
+```bash
+   code --install-extension shadowfrost-theme-<version>.vsix
 ```
