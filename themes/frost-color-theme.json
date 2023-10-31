@@ -100,7 +100,7 @@
     {
       "scope": ["string", "string punctuation.section.embedded source"],
       "settings": {
-        "foreground": "#a5d6ff"
+        "foreground": "#fce566"
       }
     },
     {
