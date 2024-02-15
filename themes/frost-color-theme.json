@@ -836,6 +836,11 @@
     }
   ],
   "colors": {
+    //v2 change
+    "editor.selectionBackground": "#ffffff35",
+    "editor.lineHighlightBackground": "#ffffff20",
+    "editor.lineHighlightBorder": "#ffffff00",
+    //v1 change
     "tab.activeBackground": "#1c1a27",
     "tab.activeBorder": "#1c1a27",
     "tab.activeBorderTop": "#1c1a27",
@@ -991,8 +996,8 @@
     "editorGutter.addedBackground": "#8ce99a",
     "editorGutter.deletedBackground": "#e34e1c",
     "editorGutter.modifiedBackground": "#ffc180",
-    "editor.selectionBackground": "#1679b6BF",
-    "editor.selectionHighlightBackground": "#2b273c",
+    // "editor.selectionBackground": "#1679b6BF",
+    "editor.selectionHighlightBackground": "#2b273c7f",
     "editor.inactiveSelectionBackground": "#1679b633",
     "editor.wordHighlightStrongBackground": "#cc990033",
     "editor.wordHighlightBackground": "#e4b78133",
@@ -1000,8 +1005,8 @@
     "editor.findMatchHighlightBackground": "#0e667179",
     "editor.findRangeHighlightBackground": "#49e9a622",
     "editor.hoverHighlightBackground": "#1679b63f",
-    "editor.lineHighlightBackground": "#003c61ee",
-    "editor.lineHighlightBorder": "#003c61",
+    // "editor.lineHighlightBackground": "#003c61ee",
+    // "editor.lineHighlightBorder": "#003c61",
     "editor.rangeHighlightBackground": "#49d6e922",
     "editorLink.activeForeground": "#14a5ff",
     "editorWhitespace.foreground": "#ffffff21",
